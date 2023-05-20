@@ -1,0 +1,9 @@
+* cl-unac
+
+unac(3) bindings for common lisp.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/diasbruno/cl-unac.git |
+| commit  | d2c4cbc                                      |
+| systems | cl-unac                                      |
+|---------+----------------------------------------------|
